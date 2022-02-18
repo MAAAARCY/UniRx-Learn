@@ -1,3 +1,3 @@
 # UniRx-Learn
-- Used Plugins (applied .gitignore)
+- Used Plugins (Applied .gitignore)
   - UniRx - Reactive Extensions for Unity (Version 7.1.0)
