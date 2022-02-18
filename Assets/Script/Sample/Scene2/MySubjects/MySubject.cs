@@ -2,9 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UniRx;
 
-/*
+
 namespace Samples.Section2.MySubjects
 {
+    /*
     //独自実装Subject
     public class MySubject<T> : ISubject<T>, IDisposable
     {
@@ -133,5 +134,5 @@ namespace Samples.Section2.MySubjects
             }
         }
     }
+    */
 }
-*/
